@@ -1,0 +1,28 @@
+// SPDX-License-Identifier: Adeel
+// pragma solidity 0.8.18;
+
+
+
+// // contract
+// contract AreebaContract{
+
+
+// // varibale 
+//     string _name;
+//     uint _age;
+//     address _myAddress;
+
+
+// // writeable function 
+//     function Set(string memory name_, uint age_, address myAddress_) public {
+//         _name = name_;
+//         _age = age_;
+//         _myAddress = myAddress_;
+//     }
+
+
+// // readable function 
+//     function get() public view returns(string memory, uint , address){
+//         return (_name, _age, _myAddress);
+//     }
+// }
